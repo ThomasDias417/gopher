@@ -1,10 +1,10 @@
 package gopher
 
-func Crie(){
+func Crie() string{
 	return "ghighi"
 }
 
 
-func Hurlement(){
+func Hurlement() string{
 	return "AAARRRRRGHHHH"
 }
